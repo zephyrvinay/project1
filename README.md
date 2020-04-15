@@ -1,21 +1,32 @@
-# project1
-first independant project of epicodus
+# _project1_
 
-## author name 
-* Zephyrus
+#### _Week 4 Epicodus project with a protfolio, April 14 2020_
 
-## project or program name 
-* First independant epicodus portfolio project
+#### By _**Zephyrus**_
 
-## description of program
-* This is the portfolio of my profile
+## Description
 
-## program setup instructions
-* zephyrvinay.github.io/project1
+_This is my portfolio which demostrates knowledge of the css,html , js and some bootstrap_
 
+## Setup/Installation Requirements
 
-## link to site on GitHub Pages
-[The link] (https://zephyrvinay.github.io/project1) to my portfolio 
+* Download the file and then open the index.html in a browser. 
+* remaining css,html and js folders need to be in the same folder
 
-copyright and license information
-* afl-3.0
+## Known Bugs
+
+_NA_
+
+## Support and contact details
+
+_zephyrus@gmail.com_
+
+## Technologies Used
+
+_HTML,CSS,JS and Bootstrap_
+
+### License
+
+*This software is licensed under the MIT License*
+
+Copyright (c) 2016 **_Zephyrus_**
